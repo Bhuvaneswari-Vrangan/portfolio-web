@@ -1,1 +1,1 @@
-# portfolio-web
+I created a personal portfolio website using HTML and CSS to showcase my skills, projects, education, and achievements. This project helped me improve my web design, layout, and front-end development skills.
